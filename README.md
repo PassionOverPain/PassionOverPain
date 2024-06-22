@@ -3,22 +3,23 @@ A current Bachelor of Information Technology student who is fairly seasoned in v
 <ul>
   <li>Basic Game development</li>
   <li>Database Design and Development</li>
-  <li>Data Analysis</li>
+  <li>Data Analysis</li>                                   
   <li>Network Management</li>
   <li>Web Applications Development</li>
   <li>Windows Applications Development</li>
-  
+ 
 </ul>
-I look at programming as the process of defeating a video game boss: <i>you seldom get it right the first time but after failing indefinitely, you eventually level up and succeed.</i>Seeking to grow my foundation in IT through team based projects, hackathons and job placements if the opportunity arises.
-
+I look at programming as the process of defeating a video game boss: <i>you seldom get it right the first time but after failing indefinitely, you eventually level up and succeed.</i>Seeking to grow my foundation in IT through team based projects, hackathons and job placements if the opportunity arises.  <img src="https://static.wixstatic.com/media/9d7b99_dfcb8e88751c4cecb7ac677976976ec8~mv2.gif" height=100px>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tinotenda-mhedziso/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tinotenda-mhedziso/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](tinomhedziso@gmail.com)
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
