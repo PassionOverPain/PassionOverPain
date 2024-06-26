@@ -11,6 +11,16 @@ A current Bachelor of Information Technology student who is fairly seasoned in v
 </ul>
 I look at programming as the process of defeating a video game boss: <i>you seldom get it right the first time but after failing indefinitely, you eventually level up and succeed.</i>Seeking to grow my foundation in IT through team based projects, hackathons and job placements if the opportunity arises.  <img src="https://static.wixstatic.com/media/9d7b99_dfcb8e88751c4cecb7ac677976976ec8~mv2.gif" height=100px>
 
+## 🐱‍👤 Simple Website Projects:
+<ul>
+  <a href="passionoverpain.github.io/TheAtlasSix">
+  <li>The Atlas Six</li>
+  </a>
+   <a href="passionoverpain.github.io/SeventhFloorMedia">
+  <li>Seventh Floor Media</li>
+  </a>
+</ul>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tinotenda-mhedziso/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tinomhedziso@gmail.com)
