@@ -13,10 +13,10 @@ I look at programming as the process of defeating a video game boss: <i>you seld
 
 ## 🐱‍👤 Simple Website Projects:
 <ul>
-  <a href="passionoverpain.github.io/TheAtlasSix">
+  <a href="https://passionoverpain.github.io/TheAtlasSix">
   <li>The Atlas Six</li>
   </a>
-   <a href="passionoverpain.github.io/SeventhFloorMedia">
+   <a href="https://passionoverpain.github.io/SeventhFloorMedia">
   <li>Seventh Floor Media</li>
   </a>
 </ul>
