@@ -1,6 +1,6 @@
 <h1 align =center>
    <img src="https://see.fontimg.com/api/renderfont4/x3J88/eyJyIjoiZnMiLCJoIjo5OSwidyI6MTAwMCwiZnMiOjk5LCJmZ2MiOiIjQUEyM0RCIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SGV5IFRoZXJlIEltIFRpbm8/magnific-chaos-personal-use-regular.png"> <img src="https://bengsfort.github.io/assets/pixel-art/MainCharacter_32x32_idle.gif" height=100px>
- 
+
 </h1>
 A current Bachelor of Information Technology student who is fairly seasoned in various IT disciplines⚔:
 <ul>
@@ -62,3 +62,5 @@ I look at programming as the process of defeating a video game boss: <i>you seld
 [![The Genuis AI behind the Sims](https://ytcards.demolab.com/?id=9gf2MT-IOsg&title=The+Genius+AI+Behind+The+Sims&lang=en&timestamp=1688076000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1297 "The Genius AI Behind The Sims")](https://www.youtube.com/watch?v=9gf2MT-IOsg&ab_channel=GameMaker%27sToolkit)
 [![Don't make this assumption about your players (Developing 10)](https://ytcards.demolab.com/?id=2G84mU3WPaE&title=Don't+make+this+assumption+about+your+players&lang=en&timestamp=1680472800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1054 "Don't make this assumption about your players")](https://www.youtube.com/watch?v=2G84mU3WPaE&t=885s&ab_channel=GameMaker%27sToolkit)
 [![The Most Beautiful Game Worlds of All Time](https://ytcards.demolab.com/?id=Q8_41m0Svvk&title=The+Most+Beautiful+Game+Worlds+of+All+Time&lang=en&timestamp=1699135200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3563 "The Most Beautiful Game Worlds of All Time")](https://www.youtube.com/watch?v=Q8_41m0Svvk&t=29s&ab_channel=FranklyGaming)
+
+
