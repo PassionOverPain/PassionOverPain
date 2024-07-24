@@ -22,7 +22,7 @@ I look at programming as the process of defeating a video game boss: <i>you seld
   </h1>
  
   <a href="https://passionoverpain.github.io/TheAtlasSix" title="The Atlas Six" >
-  <img src="https://static.vecteezy.com/system/resources/previews/042/196/213/large_2x/ai-generated-role-playing-rpg-game-background-free-photo.jpg" height=100px>
+  <img src="https://github.com/PassionOverPain/Tinotenda-Mhedziso/blob/main/Images/TheAtlasSix.jpg?raw=true" height=100px>
   </a>
    <a href="https://passionoverpain.github.io/SeventhFloorMedia" title="Seventh Floor Media">
   <img src="https://github.com/PassionOverPain/Tinotenda-Mhedziso/blob/main/Images/SeventhFloorMedia.png?raw=true"height=100px>
