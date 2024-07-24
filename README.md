@@ -25,15 +25,20 @@ I look at programming as the process of defeating a video game boss: <i>you seld
   <img src="https://static.vecteezy.com/system/resources/previews/042/196/213/large_2x/ai-generated-role-playing-rpg-game-background-free-photo.jpg" height=100px>
   </a>
    <a href="https://passionoverpain.github.io/SeventhFloorMedia" title="Seventh Floor Media">
-  <img src="https://img.freepik.com/free-photo/illuminated-skyscrapers-light-up-modern-cityscape-generated-by-ai_188544-40133.jpg"height=100px>
+  <img src="https://github.com/PassionOverPain/Tinotenda-Mhedziso/blob/main/Images/SeventhFloorMedia.png?raw=true"height=100px>
   </a>
-
-
+   <a href="https://passionoverpain.github.io/TheLearningCurve/" title="The Learning Curve">
+  <img src="https://github.com/PassionOverPain/Tinotenda-Mhedziso/blob/main/Images/TheLearningCurve.png?raw=true"height=100px>
+  </a>
+  
 <h1 align =center>
 <img src="https://see.fontimg.com/api/renderfont4/x3J88/eyJyIjoiZnMiLCJoIjo5OSwidyI6MTAwMCwiZnMiOjk5LCJmZ2MiOiIjQUEyM0RCIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/U29jaWFsIFBhZ2Vz/magnific-chaos-personal-use-regular.png">
   </h1>
   
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tinotenda-mhedziso/)
+<a href="https://passionoverpain.github.io/Tinotenda-Mhedziso/" title="My portfolio website">
+  <img src="https://github.com/PassionOverPain/Tinotenda-Mhedziso/blob/main/Images/cat.gif?raw=true" height=100px>
+  </a>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tinomhedziso@gmail.com)
 
 <h1 align =center>
