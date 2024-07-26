@@ -2,7 +2,10 @@
    <img src="https://see.fontimg.com/api/renderfont4/x3J88/eyJyIjoiZnMiLCJoIjo5OSwidyI6MTAwMCwiZnMiOjk5LCJmZ2MiOiIjQUEyM0RCIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SGV5IFRoZXJlIEltIFRpbm8/magnific-chaos-personal-use-regular.png"> <img src="https://bengsfort.github.io/assets/pixel-art/MainCharacter_32x32_idle.gif" height=100px>
 
 </h1>
+
+My Current GitHub Ranking in South Africa:<br>
 [![committers.top badge](https://user-badge.committers.top/south_africa/PassionOverPain.svg)](https://user-badge.committers.top/south_africa/PassionOverPain)
+<br>
 A current Bachelor of Information Technology student who is fairly seasoned in various IT disciplines🔥⚔:
 <ul>
   <li>Basic Game development</li>
