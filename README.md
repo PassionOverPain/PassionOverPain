@@ -6,7 +6,7 @@
 My Current GitHub Ranking in South Africa:<br>
 [![committers.top badge](https://user-badge.committers.top/south_africa/PassionOverPain.svg)](https://user-badge.committers.top/south_africa/PassionOverPain)
 <br>
-A current Bachelor of Information Technology student who is fairly seasoned in various IT disciplines🔥⚔:
+<b>Bachelor of Information Technology⚔</b> student who has experience in:
 <ul>
   <li>Basic Game development</li>
   <li>Database Design and Development</li>
@@ -16,7 +16,7 @@ A current Bachelor of Information Technology student who is fairly seasoned in v
   <li>Windows Applications Development</li>
  
 </ul>
-I look at programming as the process of defeating a video game boss: <i>you seldom get it right the first time but after failing indefinitely, you eventually level up and succeed.</i>Seeking to grow my foundation in IT through team based projects, hackathons and job placements if the opportunity arises. 
+I look at programming as the process of defeating a video game boss: <i>you seldom get it right the first time but after failing indefinitely, you eventually level up and succeed.</i> Growing through helping people💪🏿.
 <div align=center style="position absolute">
 <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*LKKB4dytODUFOWLWMbxdDQ.gif" height=300px float=right display=inline-block>
 </div>
