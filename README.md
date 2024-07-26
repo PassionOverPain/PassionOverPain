@@ -1,12 +1,8 @@
 <h1 align =center>
    <img src="https://see.fontimg.com/api/renderfont4/x3J88/eyJyIjoiZnMiLCJoIjo5OSwidyI6MTAwMCwiZnMiOjk5LCJmZ2MiOiIjQUEyM0RCIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SGV5IFRoZXJlIEltIFRpbm8/magnific-chaos-personal-use-regular.png"> <img src="https://bengsfort.github.io/assets/pixel-art/MainCharacter_32x32_idle.gif" height=100px>
-
 </h1>
-
-My Current GitHub Ranking in South Africa:<br>
-[![committers.top badge](https://user-badge.committers.top/south_africa/PassionOverPain.svg)](https://user-badge.committers.top/south_africa/PassionOverPain)
-<br>
-<b>Bachelor of Information Technology⚔</b> student who has experience in:
+<b>Bachelor of Information Technology⚔</b> student and a <b>Professional Bug Creator</b> ( Software Dev :> ). <br>
+I have experience in:
 <ul>
   <li>Basic Game development</li>
   <li>Database Design and Development</li>
@@ -14,8 +10,14 @@ My Current GitHub Ranking in South Africa:<br>
   <li>Network Management</li>
   <li>Web Applications Development</li>
   <li>Windows Applications Development</li>
- 
 </ul>
+<b><u>Random Statistics (clickable)</u></b>:
+
+My Current GitHub Ranking in South Africa:<br>
+[![committers.top badge](https://user-badge.committers.top/south_africa/PassionOverPain.svg)](https://user-badge.committers.top/south_africa/PassionOverPain)
+
+For people who want to see The numbers😌
+
 I look at programming as the process of defeating a video game boss: <i>you seldom get it right the first time but after failing indefinitely, you eventually level up and succeed.</i> Growing through helping people💪🏿.
 <div align=center style="position absolute">
 <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*LKKB4dytODUFOWLWMbxdDQ.gif" height=300px float=right display=inline-block>
