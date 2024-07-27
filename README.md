@@ -42,7 +42,7 @@ I look at programming as the process of defeating a video game boss: <i>you seld
   </h1>
   
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tinotenda-mhedziso/)
-<a href="" title="My portfolio website">
+<a href="https://passionoverpain.github.io/Tinotenda-Mhedziso/" title="My portfolio website">
   <img src="https://github.com/PassionOverPain/Tinotenda-Mhedziso/blob/main/Images/cat.gif?raw=true" height=100px>
   </a>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tinomhedziso@gmail.com)
