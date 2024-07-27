@@ -31,10 +31,10 @@ I look at programming as the process of defeating a video game boss: <i>you seld
   <img src="https://github.com/PassionOverPain/Tinotenda-Mhedziso/blob/main/Images/TheAtlasSix.jpg?raw=true" height=100px>
   </a>
    <a href="https://passionoverpain.github.io/SeventhFloorMedia" title="Seventh Floor Media">
-  <img src="https://github.com/PassionOverPain/Tinotenda-Mhedziso/blob/main/Images/SeventhFloorMedia.png?raw=true"height=100px>
+  <img src="https://github.com/PassionOverPain/Tinotenda-Mhedziso/blob/main/Images/SeventhFloorMedia.webp?raw=true"height=100px>
   </a>
    <a href="https://passionoverpain.github.io/TheLearningCurve/" title="The Learning Curve">
-  <img src="https://github.com/PassionOverPain/Tinotenda-Mhedziso/blob/main/Images/TheLearningCurve.png?raw=true"height=100px>
+  <img src="https://github.com/PassionOverPain/Tinotenda-Mhedziso/blob/main/Images/TheLearningCurve.webp?raw=true"height=100px>
   </a>
   
 <h1 align =center>
