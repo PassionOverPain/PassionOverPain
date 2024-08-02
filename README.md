@@ -40,12 +40,16 @@ I look at programming as the process of defeating a video game boss: <i>you seld
 <h1 align =center>
 <img src="https://see.fontimg.com/api/renderfont4/x3J88/eyJyIjoiZnMiLCJoIjo5OSwidyI6MTAwMCwiZnMiOjk5LCJmZ2MiOiIjQUEyM0RCIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/U29jaWFsIFBhZ2Vz/magnific-chaos-personal-use-regular.png">
   </h1>
-  
+
+  <div align=center>
+     
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tinotenda-mhedziso/)
 <a href="https://passionoverpain.github.io/Tinotenda-Mhedziso/" title="My portfolio website">
   <img src="https://github.com/PassionOverPain/Tinotenda-Mhedziso/blob/main/Images/cat.gif?raw=true" height=100px>
   </a>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tinomhedziso@gmail.com)
+
+</div>
 
 <h1 align =center>
 <img src="https://see.fontimg.com/api/renderfont4/x3J88/eyJyIjoiZnMiLCJoIjo5OSwidyI6MTAwMCwiZnMiOjk5LCJmZ2MiOiIjQUEyM0RCIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/TXkgVGVjaCBTdGFjaw/magnific-chaos-personal-use-regular.png">
@@ -66,12 +70,18 @@ I look at programming as the process of defeating a video game boss: <i>you seld
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
+  <div align =center>
+<<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">>
+  </div>
+
 <h1 align =center>
 <img src="https://see.fontimg.com/api/renderfont4/x3J88/eyJyIjoiZnMiLCJoIjo5OSwidyI6MTAwMCwiZnMiOjk5LCJmZ2MiOiIjQUEyM0RCIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SW50ZXJlc3RpbmcgVGVjaCBUYWxrcw/magnific-chaos-personal-use-regular.png">
   </h1>
-  
+<div align=center>
+   
 [![The Genuis AI behind the Sims](https://ytcards.demolab.com/?id=9gf2MT-IOsg&title=The+Genius+AI+Behind+The+Sims&lang=en&timestamp=1688076000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1297 "The Genius AI Behind The Sims")](https://www.youtube.com/watch?v=9gf2MT-IOsg&ab_channel=GameMaker%27sToolkit)
 [![Don't make this assumption about your players (Developing 10)](https://ytcards.demolab.com/?id=2G84mU3WPaE&title=Don't+make+this+assumption+about+your+players&lang=en&timestamp=1680472800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1054 "Don't make this assumption about your players")](https://www.youtube.com/watch?v=2G84mU3WPaE&t=885s&ab_channel=GameMaker%27sToolkit)
 [![The Most Beautiful Game Worlds of All Time](https://ytcards.demolab.com/?id=Q8_41m0Svvk&title=The+Most+Beautiful+Game+Worlds+of+All+Time&lang=en&timestamp=1699135200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3563 "The Most Beautiful Game Worlds of All Time")](https://www.youtube.com/watch?v=Q8_41m0Svvk&t=29s&ab_channel=FranklyGaming)
+</div>
 
 
