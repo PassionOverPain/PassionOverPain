@@ -8,8 +8,8 @@ I have experience in:
   <li>Database Design and Development</li>
   <li>Data Analysis</li>                                   
   <li>Network Management</li>
-  <li>Web Applications Development</li>
-  <li>Windows Applications Development</li>
+  <li>Web Application Development</li>
+  <li>Windows Application Development</li>
 </ul>
 <b><u>Random Statistics (clickable)</u></b>:
 
