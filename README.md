@@ -13,10 +13,13 @@ I have experience in:
 </ul>
 <b><u>Random Statistics (clickable)</u></b>:
 
+For people who want to see <b>The numbers</b>😌
+
 My Current GitHub Ranking in South Africa:<br>
+
 [![committers.top badge](https://user-badge.committers.top/south_africa/PassionOverPain.svg)](https://user-badge.committers.top/south_africa/PassionOverPain)
 
-For people who want to see The numbers😌
+
 
 I look at programming as the process of defeating a video game boss: <i>you seldom get it right the first time but after failing indefinitely, you eventually level up and succeed.</i> Growing through helping people💪🏿.
 
