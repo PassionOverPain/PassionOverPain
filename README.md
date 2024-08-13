@@ -21,7 +21,9 @@ My Current GitHub Ranking in South Africa:<br>
 
 
 
-I look at programming as the process of defeating a video game boss: <i>You <b>seldom</b> get it right the first time but after failing indefinitely, you eventually level up and succeed.</i> Growing through helping people💪🏿.Feel free to contact me for any quries or assitance🦚
+I look at programming as the process of defeating a video game boss: <i>You <b>seldom</b> get it right the first time but after failing indefinitely, you eventually level up and succeed.</i>
+<br>Growing through helping people💪🏿.
+<br>Feel free to contact me for any quries or assitance🦚
 
 <div align=center>
    
