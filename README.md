@@ -3,6 +3,7 @@
 </h1>
 <b>Bachelor of Information Technology⚔</b> student and a <b>Professional Bug Creator</b> ( Software Dev :> ). <br>
 I have experience in:
+
 <ul>
   <li>Basic Game development</li>
   <li>Database Design and Development</li>
