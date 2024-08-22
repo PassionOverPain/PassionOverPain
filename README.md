@@ -13,7 +13,7 @@ I have experience in:
   <li>Windows Application Development</li>
 </ul>
 
-Passion Over Pain, why ? Because that's just how life is :).
+Passion Over Pain, why ? Because that's just how life is :) .
 <br>
 <b><u>Random Statistics (clickable)</u></b>:
 
