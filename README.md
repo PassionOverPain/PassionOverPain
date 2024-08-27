@@ -15,7 +15,7 @@ I have experience in:
 
 Passion Over Pain, why ? Because that's just how life is :) .
 <br>
-<b><u>Random Statistics (clickable)</u></b>:
+<b><u>Random Statistic (clickable)</u></b>:
 
 For people who want to see <b>The numbers</b>😌
 
