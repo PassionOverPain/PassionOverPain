@@ -19,7 +19,7 @@ Passion Over Pain, why ? Because that's just how life is :) .
 
 For people who want to see <b>The numbers</b>😌
 
-My Current GitHub Ranking in South Africa:<br>
+My Current GitHub Activity Ranking in South Africa:<br>
 
 [![committers.top badge](https://user-badge.committers.top/south_africa/PassionOverPain.svg)](https://user-badge.committers.top/south_africa/PassionOverPain)
 
