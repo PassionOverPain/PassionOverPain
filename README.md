@@ -27,7 +27,7 @@ My Current GitHub Activity Ranking in South Africa:<br>
 
 I look at programming as the process of defeating a video game boss: <i>You <b>seldom</b> get it right the first time but after failing indefinitely, you eventually level up and succeed.</i>
 <br>Growing through helping people💪🏿.
-<br>Feel free to contact me if you have any questions or require assitance with a project🦚
+<br>Feel free to contact me if you have any questions or require assitance with a project🦚.
 
 <div align=center>
    
