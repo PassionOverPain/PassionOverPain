@@ -2,7 +2,7 @@
    <img src="https://see.fontimg.com/api/renderfont4/x3J88/eyJyIjoiZnMiLCJoIjo5OSwidyI6MTAwMCwiZnMiOjk5LCJmZ2MiOiIjQUEyM0RCIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SGV5IFRoZXJlIEltIFRpbm8/magnific-chaos-personal-use-regular.png"> <img src="https://bengsfort.github.io/assets/pixel-art/MainCharacter_32x32_idle.gif" alt="This is a purple ninja" height=100px>
 </h1>
 <b>Bachelor of Information Technology⚔</b> student and a <b>Professional Bug Creator</b> ( Software Dev :> ). <br>
-I have experience in:
+I have experience in the following fields:
 
 <ul>
   <li>Basic Game development</li>
