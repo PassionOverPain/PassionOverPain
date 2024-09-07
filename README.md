@@ -1,16 +1,12 @@
 <h1 align =center>
    <img src="https://see.fontimg.com/api/renderfont4/x3J88/eyJyIjoiZnMiLCJoIjo5OSwidyI6MTAwMCwiZnMiOjk5LCJmZ2MiOiIjQUEyM0RCIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SGV5IFRoZXJlIEltIFRpbm8/magnific-chaos-personal-use-regular.png"> <img src="https://bengsfort.github.io/assets/pixel-art/MainCharacter_32x32_idle.gif" alt="This is a purple ninja" height=100px>
 </h1>
-<b>Bachelor of Information Technology⚔</b> student and a <b>Professional Bug Creator</b> ( Software Dev :> ). <br>
-I have experience in the following fields:
+<div align=center>
 
-<ul>
-  <li>Basic Game development</li>
-  <li>Database Design and Development</li>
-  <li>Data Analysis</li>                                   
-  <li>Network Management</li>
-  <li>Web Application Development</li>
-  <li>Windows Application Development</li>
+|   |
+|---|
+<b>Bachelor of Information Technology⚔</b> student and a <b>Professional Bug Creator</b> ( Software Dev :> ). <br>
+<br><ul><li>Basic Game development</li> <li>Database Design and Development</li> <li>Data Analysis</li>                           <li>Network Management</li> <li>Web Application Development</li> <li>Windows Application Development</li> <br>
 </ul>
 
 Passion Over Pain, why ? Because that's just how life is :) .
@@ -28,6 +24,8 @@ My Current GitHub Activity Ranking in South Africa:<br>
 I look at programming as the process of defeating a video game boss: <i>You <b>seldom</b> get it right the first time but after failing indefinitely, you eventually level up and succeed.</i>
 <br>Growing through helping people💪🏿.
 <br>Feel free to contact me if you have any questions or require assitance with a project🦚.
+
+</div>
 
 <div align=center>
    
