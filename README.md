@@ -13,7 +13,7 @@ Passion Over Pain, why ? Because that's just how life is :) .
 <br>
 <b><u>Random Statistics (clickable)</u></b>:
 
-For people who want to see <b>The numbers</b>😌
+For people who want to see <b>The numbers </b>😌
 
 My Current GitHub Activity Ranking in South Africa:<br>
 
