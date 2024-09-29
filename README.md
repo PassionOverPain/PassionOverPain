@@ -18,9 +18,9 @@ For people who want to see <b>The numbers </b>😌
 My Current GitHub Activity Ranking in South Africa:<br>
 [![committers.top badge](https://user-badge.committers.top/south_africa/PassionOverPain.svg)](https://user-badge.committers.top/south_africa/PassionOverPain)
 
-![](https://github-readme-stats.vercel.app/api?username=PassionOverPain&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=PassionOverPain&theme=github_dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PassionOverPain&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=PassionOverPain&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=PassionOverPain&theme=midnight-purple&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PassionOverPain&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
