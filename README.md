@@ -16,10 +16,13 @@ Passion Over Pain, why ? Because that's just how life is :) .
 For people who want to see <b>The numbers </b>😌
 
 My Current GitHub Activity Ranking in South Africa:<br>
-
 [![committers.top badge](https://user-badge.committers.top/south_africa/PassionOverPain.svg)](https://user-badge.committers.top/south_africa/PassionOverPain)
 
+![](https://github-readme-stats.vercel.app/api?username=PassionOverPain&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=PassionOverPain&theme=github_dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PassionOverPain&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 I look at programming as the process of defeating a video game boss: <i>You <b>seldom</b> get it right the first time but after failing indefinitely, you eventually level up and succeed.</i>
 <br>Growing through helping people💪🏿.
@@ -29,9 +32,6 @@ I look at programming as the process of defeating a video game boss: <i>You <b>s
 
 <div align=center>
    
-<div align=center style="position absolute">
-<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*LKKB4dytODUFOWLWMbxdDQ.gif" height=300px float=right display=inline-block>
-</div>
 
 <h1 align =center>
 <img src="https://see.fontimg.com/api/renderfont4/x3J88/eyJyIjoiZnMiLCJoIjo5OSwidyI6MTAwMCwiZnMiOjk5LCJmZ2MiOiIjQUEyM0RCIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/U2ltcGxlIHdlYnNpdGUgcHJvamVjdHM6/magnific-chaos-personal-use-regular.png">
