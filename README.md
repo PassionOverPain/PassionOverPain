@@ -4,29 +4,23 @@
 <div align=center>
 
 |   |
-|---|
-<b>Bachelor of Information Technology⚔</b> student and a <b>Professional Bug Creator</b> ( Software Dev :> ). <br>
-<br><ul><li>Basic Game development</li> <li>Database Design and Development</li> <li>Data Analysis</li>                           <li>Network Management</li> <li>Web Application Development</li> <li>Windows Application Development</li> <br>
-</ul>
+|-|
+<b>Bachelor of Information Technology⚔</b> student and a <b>Professional Bug Creator</b> ( Software Dev :> )    Passion Over Pain, why ? Because that's just how life is :) .
 
-Passion Over Pain, why ? Because that's just how life is :) .
-<br>
+|   |
+|-|
 <b><u>Random Statistics (clickable)</u></b>:
-
 For people who want to see <b>The numbers </b>😌
-
 My Current GitHub Activity Ranking in South Africa:<br>
 [![committers.top badge](https://user-badge.committers.top/south_africa/PassionOverPain.svg)](https://user-badge.committers.top/south_africa/PassionOverPain)
-
 ![](https://github-readme-stats.vercel.app/api?username=PassionOverPain&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PassionOverPain&theme=midnight-purple&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PassionOverPain&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-I look at programming as the process of defeating a video game boss: <i>You <b>seldom</b> get it right the first time but after failing indefinitely, you eventually level up and succeed.</i>
-<br>Growing through helping people💪🏿.
-<br>Feel free to contact me if you have any questions or require assitance with a project🦚.
+|   |
+|-|
+I look at programming as the process of defeating a video game boss: <i>You <b>seldom</b> get it right the first time but after failing indefinitely, you eventually level up and succeed.</i>. Growing through helping people💪🏿. Feel free to contact me if you have any questions or require assitance with a project🦚.
 
 </div>
 
