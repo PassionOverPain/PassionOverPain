@@ -5,7 +5,8 @@
 
 |   |
 |-|
-<b>Bachelor of Information Technology⚔</b> student and a <b>Professional Bug Creator</b> ( Software Dev :> )    Passion Over Pain, why ? Because that's just how life is :) .
+<b>Bachelor of Information Technology⚔</b> student and a <b>Professional Bug Creator</b> ( Software Dev :> )    Passion Over Pain, why ? Because that's just how life is :). I look at programming as the process of defeating a video game boss: <i>You <b>seldom</b> get it right the first time but after failing indefinitely, you eventually level up and succeed.</i>. Growing through helping people💪🏿. Feel free to contact me if you have any questions or require assitance with a project🦚.
+
 
 |   |
 |-|
@@ -18,10 +19,6 @@ My Current GitHub Activity Ranking in South Africa:<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PassionOverPain&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-|   |
-|-|
-I look at programming as the process of defeating a video game boss: <i>You <b>seldom</b> get it right the first time but after failing indefinitely, you eventually level up and succeed.</i>. Growing through helping people💪🏿. Feel free to contact me if you have any questions or require assitance with a project🦚.
-
 </div>
 
 <div align=center>
