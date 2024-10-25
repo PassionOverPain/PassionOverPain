@@ -15,10 +15,9 @@ For people who want to see <b>The numbers </b>😌
 My Current GitHub Activity Ranking in South Africa:<br>
 [![committers.top badge](https://user-badge.committers.top/south_africa/PassionOverPain.svg)](https://user-badge.committers.top/south_africa/PassionOverPain)
 ![](https://github-readme-stats.vercel.app/api?username=PassionOverPain&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PassionOverPain&theme=midnight-purple&exclude_days=Wed%2CFri)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-n1v5.vercel.app?user=PassionOverPain&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Wed%2CFri)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PassionOverPain&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
 
 <div align=center>
