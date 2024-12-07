@@ -30,7 +30,42 @@ My Current GitHub Activity Ranking in South Africa:<br>
 </details>
 <div align=center>
 
-
+<details >
+   <summary > Something Fun</summary>
+   <br>
+   <details >
+   <summary > Want to see something cool?</summary>
+      <br>
+      <details >
+   <summary > Are you sure ?</summary>
+         <br>
+         <details >
+   <summary > Really Sure? </summary>
+            <br>
+            <details >
+   <summary > There's no turning back after this...</summary>
+               <br>
+               <details >
+   <summary > ...</summary>
+                  <br>
+                  <details >
+   <summary > Boo!</summary>
+                     <br>
+                     <details >
+   <summary > ... Haha.. Not funny ? No ? Fine here:</summary>
+                        <br>
+                        <a href="https://cdn.botpress.cloud/webchat/v2.2/shareable.html?configUrl=https://files.bpcontent.cloud/2024/12/06/17/20241206170532-B1MKLU7F.json">
+                        Do NOT Click Me
+                        </a> <br>
+                       <b> You've been warned... </b>
+</details>
+</details>
+</details>
+</details>
+</details>
+</details>
+</details>
+</details>
    
 <h1 align =center>
 <img src="https://see.fontimg.com/api/renderfont4/x3J88/eyJyIjoiZnMiLCJoIjo5OSwidyI6MTAwMCwiZnMiOjk5LCJmZ2MiOiIjQUEyM0RCIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/U2ltcGxlIHdlYnNpdGUgcHJvamVjdHM6/magnific-chaos-personal-use-regular.png">
