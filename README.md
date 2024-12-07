@@ -3,12 +3,19 @@
 </h1>
 <div align=center>
 
+<details open>
+   <summary> Biography</summary>
+   <br>
+   
 |   |
 |-|
-<b>Bachelor of Information Technology⚔</b> student who spends most of his time creating bugs. Passion Over Pain, why ? Because that's just how life is :). I look at programming as the process of defeating a video game boss☠: <i>You <b>seldom</b> get it right the first time but after failing indefinitely, you eventually level up and succeed.</i>. Growing through helping people💪🏿. <br> Feel free to contact me if you have any questions or require assitance with a project🦚.
+<b>Bachelor of Information Technology</b> student who spends most of his time creating bugs. Passion Over Pain, why ? Because that's just how life is. I look at programming as the process of defeating a video game boss: <i>You <b>seldom</b> get it right the first time but after failing indefinitely, you eventually level up and succeed.</i>. Growing through helping people. <br> Feel free to contact me if you have any questions or require assitance with a project.
+</details>
 
-
-
+<details>
+   <summary> Activity Statistics</summary>
+   <br>
+   
 |   |
 |-|
 <b><u>Random Statistics (clickable)</u></b>:
@@ -20,10 +27,11 @@ My Current GitHub Activity Ranking in South Africa:<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PassionOverPain&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 </div>
-
+</details>
 <div align=center>
 
 
+   
 <h1 align =center>
 <img src="https://see.fontimg.com/api/renderfont4/x3J88/eyJyIjoiZnMiLCJoIjo5OSwidyI6MTAwMCwiZnMiOjk5LCJmZ2MiOiIjQUEyM0RCIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/U2ltcGxlIHdlYnNpdGUgcHJvamVjdHM6/magnific-chaos-personal-use-regular.png">
   </h1>
