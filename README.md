@@ -54,7 +54,7 @@ My Current GitHub Activity Ranking in South Africa:<br>
                      <details >
    <summary > ... Haha.. Not funny ? No ? Fine here:</summary>
                         <br>
-                        <a href="https://cdn.botpress.cloud/webchat/v2.2/shareable.html?configUrl=https://files.bpcontent.cloud/2024/12/06/17/20241206170532-B1MKLU7F.json">
+                        <a href="https://cdn.botpress.cloud/webchat/v2.2/shareable.html?configUrl=https://files.bpcontent.cloud/2024/12/06/17/20241206170532-B1MKLU7F.json" target="_blank">
                         Do NOT Click Me
                         </a> <br>
                        <b> You've been warned... </b>
