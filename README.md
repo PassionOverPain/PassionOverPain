@@ -76,7 +76,10 @@ Personal Progress|
   </h1>
 
   </div>
-  
+
+> [!TIP]
+> <b> You can navigate to the project itself by clicking the Preview image. If the project is not deployed, this will take you to the project repository.</b>
+
 > [!NOTE]
 > <b> Currently working on: The Atlas Six: Version 1.2 => Enhancing CSS Transitions and mitigating JavaScript branch errors.</b>
 
@@ -104,12 +107,12 @@ Personal Progress|
 <img src="https://see.fontimg.com/api/renderfont4/x3J88/eyJyIjoiZnMiLCJoIjo5OSwidyI6MTAwMCwiZnMiOjk5LCJmZ2MiOiIjQUEyM0RCIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/U29jaWFsIFBhZ2Vz/magnific-chaos-personal-use-regular.png">
   </h1>
 
-     
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tinotenda-mhedziso/)
-<a href="https://tinotenda-mhedziso.pages.dev" title="My portfolio website">
-  <img src="https://github.com/PassionOverPain/Tinotenda-Mhedziso/blob/main/Images/cat.gif?raw=true" height=100px >
-  </a>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tinomhedziso@gmail.com)
+ | Social| Icon |
+ |:---------:|:---------:|
+ |<h4>My Email:</h4> You can reach out to me directly via email for inquiries, project collaborations, or any IT-related assistance. I look forward to connecting with you.|[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tinomhedziso@gmail.com)|
+|<h4>LinkedIn:</h4> Please feel free to connect with me on LinkedIn if you have any questions, would like to discuss a potential project in Information Technology, or seek guidance related to the IT field. I am always open to professional collaborations and meaningful discussions.|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tinotenda-mhedziso/)|
+|<h4>My Website:</h4> Visit my portfolio website to explore my projects, access my social links, interact with my chatbot, and stay updated with my daily activities. It serves as a centralized hub for connecting with me, whether you're looking to collaborate on a project, discuss IT-related topics, or seek professional guidance.|<a href="https://tinotenda-mhedziso.pages.dev" title="My portfolio website"><img src="https://github.com/PassionOverPain/Tinotenda-Mhedziso/blob/main/Images/cat.gif?raw=true" height=100px ></a>|
+
 
 
 <h1 align =center>
