@@ -9,7 +9,7 @@
    
 |About Me|My workstation|
 |---------|---------|
-|<b>Bachelor of Information Technology</b> student who spends most of his time creating bugs. Passion Over Pain, why ? Because that's just how life is. I look at programming as the process of defeating a video game boss: <i>You <b>seldom</b> get it right the first time but after failing indefinitely, you eventually level up and succeed.</i>.<br> Feel free to contact me if you have any questions or require assitance with a project.<br>Activity Ranking in South Africa:<br>[![committers.top badge](https://user-badge.committers.top/south_africa/PassionOverPain.svg)](https://user-badge.committers.top/south_africa/PassionOverPain)|<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png?r=z00" align=right>|
+|<b>Bachelor of Information Technology</b> student who spends most of his time creating bugs. I look at programming as the process of defeating a video game boss: <i>You <b>seldom</b> get it right the first time but after failing indefinitely, you eventually level up and succeed.</i>.<br> Feel free to contact me if you have any questions or require assitance with a project.<br>Activity Ranking in South Africa:<br>[![committers.top badge](https://user-badge.committers.top/south_africa/PassionOverPain.svg)](https://user-badge.committers.top/south_africa/PassionOverPain)|<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png?r=z00" align=right>|
 
 </details>
 
@@ -24,7 +24,7 @@
 
 Personal Progress|
 |:---:|
-|![GitHub Streak](https://github-readme-streak-stats-n1v5.vercel.app?user=PassionOverPain&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Wed%2CFri)]|(https://git.io/streak-stats)
+|![GitHub Streak](https://github-readme-streak-stats-n1v5.vercel.app?user=PassionOverPain&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Wed%2CFri)|(https://git.io/streak-stats)
 
 |Utilized Languages|
 |---|
