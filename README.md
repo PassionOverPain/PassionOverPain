@@ -9,7 +9,7 @@
    
 |About Me|My workstation|
 |---------|---------|
-|<b>Bachelor of Information Technology</b> student who spends most of his time creating bugs. Passion Over Pain, why ? Because that's just how life is. I look at programming as the process of defeating a video game boss: <i>You <b>seldom</b> get it right the first time but after failing indefinitely, you eventually level up and succeed.</i>. Growing through helping people. <br> Feel free to contact me if you have any questions or require assitance with a project.|<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png?r=z00" align=right>|
+|<b>Bachelor of Information Technology</b> student who spends most of his time creating bugs. Passion Over Pain, why ? Because that's just how life is. I look at programming as the process of defeating a video game boss: <i>You <b>seldom</b> get it right the first time but after failing indefinitely, you eventually level up and succeed.</i>.<br> Feel free to contact me if you have any questions or require assitance with a project.<br>Activity Ranking in South Africa:<br>[![committers.top badge](https://user-badge.committers.top/south_africa/PassionOverPain.svg)](https://user-badge.committers.top/south_africa/PassionOverPain)|<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png?r=z00" align=right>|
 
 </details>
 
@@ -18,9 +18,9 @@
    <summary> Activity Statistics</summary>
    <br>
    
-|Ranking by Country| Overall Statistics|Progress|Utilized Languages|
-|:---:|:---:|:---:|:---:|
-|Activity Ranking in South Africa:<br>[![committers.top badge](https://user-badge.committers.top/south_africa/PassionOverPain.svg)](https://user-badge.committers.top/south_africa/PassionOverPain)|![](https://github-readme-stats.vercel.app/api?username=PassionOverPain&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=percentile&custom_title=Worldwide-GitHub-Stats)|[![GitHub Streak](https://github-readme-streak-stats-n1v5.vercel.app?user=PassionOverPain&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Wed%2CFri)](https://git.io/streak-stats)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=PassionOverPain&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+| Overall Statistics|Personal Progress|Utilized Languages|
+|:---:|:---:|:---:|
+|![](https://github-readme-stats.vercel.app/api?username=PassionOverPain&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=percentile&custom_title=Worldwide-GitHub-Stats)|[![GitHub Streak](https://github-readme-streak-stats-n1v5.vercel.app?user=PassionOverPain&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Wed%2CFri)](https://git.io/streak-stats)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=PassionOverPain&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 </div>
 </details>
@@ -70,7 +70,7 @@
   </div>
   
 > [!NOTE]
-> <b> Currently working on: The Atlas Six.</b>
+> <b> Currently working on: The Atlas Six: Version 1.2 => Enhancing CSS Transitions and mitigating JavaScript branch errors.</b>
 
 <div align=center>
    
