@@ -18,9 +18,17 @@
    <summary> Activity Statistics</summary>
    <br>
    
-| Overall Statistics|Personal Progress|Utilized Languages|
-|:---:|:---:|:---:|
-|![](https://github-readme-stats.vercel.app/api?username=PassionOverPain&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=percentile&custom_title=Worldwide-GitHub-Stats)|[![GitHub Streak](https://github-readme-streak-stats-n1v5.vercel.app?user=PassionOverPain&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Wed%2CFri)](https://git.io/streak-stats)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=PassionOverPain&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+| Overall Statistics|
+|:---:|
+|![](https://github-readme-stats.vercel.app/api?username=PassionOverPain&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=percentile&custom_title=Worldwide-GitHub-Stats)|
+
+Personal Progress|
+|:---:|
+|![GitHub Streak](https://github-readme-streak-stats-n1v5.vercel.app?user=PassionOverPain&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Wed%2CFri)]|(https://git.io/streak-stats)
+
+|Utilized Languages|
+|---|
+|![](https://github-readme-stats.vercel.app/api/top-langs/?username=PassionOverPain&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)|
 
 </div>
 </details>
