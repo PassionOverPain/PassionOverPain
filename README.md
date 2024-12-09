@@ -81,12 +81,24 @@ Personal Progress|
 > <b> Currently working on: The Atlas Six: Version 1.2 => Enhancing CSS Transitions and mitigating JavaScript branch errors.</b>
 
 <div align=center>
-   
+
  | Project | Preview |
  |:---------:|:---------:|
-|<h4>The Atlas Six:</h4> A basic website constructed on an RPG characters my friends and I came up with.|<a href="https://passionoverpain.github.io/TheAtlasSix" title="The Atlas Six" ><img src="https://github.com/PassionOverPain/Tinotenda-Mhedziso/blob/main/Images/TheAtlasSix.jpg?raw=true" height=100px ></a>|
+|<h4>Alternative Portfolio Website:</h4> A fully responsive website redesign of my own using a bootstrap template.|<a href="https://passionoverpain.github.io/WebDev-website/" title="My Portfolio Redesign" ><img src="https://github.com/user-attachments/assets/109fbd73-2046-4474-994a-f1b2119672c0?raw=true" height=100px ></a>|
 |<h4>Seventh Floor Media:</h4> A simple web page representing a fictional Newspaper publication company.|<a href="https://passionoverpain.github.io/SeventhFloorMedia" title="Seventh Floor Media" ><img src="https://github.com/PassionOverPain/Tinotenda-Mhedziso/blob/main/Images/SeventhFloorMedia.webp?raw=true" height=100px></a>|
 |<h4>The Learning Curve:</h4> A tutoring company withsole purpose of providing quality educational service.|<a href="https://passionoverpain.github.io/TheLearningCurve/" title="The Learning Curve" ><img src="https://github.com/PassionOverPain/Tinotenda-Mhedziso/blob/main/Images/TheLearningCurve.webp?raw=true" height=100px></a>|
+
+
+<h1 align =center>
+<img src="https://see.fontimg.com/api/rf5/x3J88/ZWE0MjI4NDJjYTkzNGUwN2E4NTA5ZTJhMDY0ZmNkNmYudHRm/TW9yZSBDb21wbGV4IEFwcGxpY2F0aW9ucw/magnific-chaos-personal-use-regular.png?r=fs&h=80&w=1000&fg=9413B3&bg=FFFFFF&tb=1&s=80">
+  </h1>
+
+
+ | Project | Preview |
+ |:---------:|:---------:|
+|<h4>CreateIT:</h4> A budget friendly mobile app prototype that assists users to maintain a low spend while enjoying their favourite cuisine. C# application that leverages various food store APIs to return items such as recipes and ingredients as well as local database for authetication.|<a href="https://github.com/PassionOverPain/CreateTech" title="CreateIT" ><img src="https://github.com/user-attachments/assets/5d00303f-ef0a-40e7-b66c-2a5964f05c00?raw=true" height=100px ></a>|
+|<h4>IT Project Manager:</h4> An IT Project Management web application using ASP.net core web APIs with entity framework for the backend, React-Bootstrap and MSSQL Server for the database.|<a href="https://github.com/PassionOverPain/IWDV202-WebApp" title="IT Project Manager" ><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png?r=z00"></a>|
+|<h4>The Atlas Six:</h4> This project is under construction. Star the repo for updates.|<a href="https://github.com/PassionOverPain/TheAtlasSix1" title="The Atlas Six" ><img src="https://github.com/user-attachments/assets/27cd58cf-1b8f-494b-9268-a1b56fc06544?raw=true" height=100px></a>|
   
 <h1 align =center>
 <img src="https://see.fontimg.com/api/renderfont4/x3J88/eyJyIjoiZnMiLCJoIjo5OSwidyI6MTAwMCwiZnMiOjk5LCJmZ2MiOiIjQUEyM0RCIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/U29jaWFsIFBhZ2Vz/magnific-chaos-personal-use-regular.png">
